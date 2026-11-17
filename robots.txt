@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://encontro.orquestrator.ai
+Sitemap: https://encontro.orquestrator.ai/sitemap.xml
